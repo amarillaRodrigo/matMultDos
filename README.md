@@ -62,7 +62,7 @@ Hijos: Ingresar una lista separada por comas. Ejemplo: Juan Jr.,María
 #### Salida de Datos
 El programa mostrará los datos ingresados en formato detallado, incluyendo la cantidad de teléfonos e hijos.
 
-Filtrar por DNI
+#### Filtrar por DNI
 Al ingresar un DNI, el programa buscará y mostrará los datos de la persona correspondiente.
 
 
